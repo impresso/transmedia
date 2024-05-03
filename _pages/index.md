@@ -16,8 +16,10 @@ University of Lausanne, 27-28 January 2025
 ![Transmedia Conference](images/transmediaconference2025.jpg)
 <div style="font-size: x-small">↑ A crowd of journalists attending District Attorney Henry Wade's press conference in Dallas on 25 November 1963, three days after the assassination of President Kennedy. Photo Bill Sauro, Library of Congress, <a href="https://commons.wikimedia.org/wiki/File:Henry_Wade_1963_press_conference_NYWTS.jpg">Creative Commons</a></div><br>
 
-
+## Call for papers
+This call for papers is also available in French.
 
 <div style="text-align: justify"> How can “transmedia” history be put into practice from both theoretical and empirical perspectives? The international conference “Transmedia History”—held by the impresso project and the University of Lausanne’s History Department—will gather researchers around this question to exchange views on the new prospects opened by digitisation and digital tools to carry out transmedia research.</div><br>
+
 
 **More soon!**
