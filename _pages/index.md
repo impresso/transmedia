@@ -1,6 +1,6 @@
 ---
 title: Transmedia Conference 2025
-title_long: Transmedia History: Circulations, Reconfigurations and New Methodologies
+title_long: Transmedia History Circulations Reconfigurations and New Methodologies
 permalink: /
 layout: index
 order: 0
