@@ -14,7 +14,7 @@ image:
 University of Lausanne, 27-28 January 2025
 
 ![Transmedia Conference](images/transmediaconference2025.jpg)
-<div style="font-size: small">Caption</div><br>
+<div style="font-size: small">⬆︎ A crowd of journalists attending District Attorney Henry Wade's press conference in Dallas on 25 November 1963, three days after the assassination of President Kennedy. Photo Bill Sauro, Library of Congress, [Creative Commons](https://commons.wikimedia.org/wiki/File:Henry_Wade_1963_press_conference_NYWTS.jpg).</div><br>
 
 
 
