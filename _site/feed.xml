@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eldorado-Workshop</title>
+    <description>The Eldorado workshop, supported by the impresso project, will bring together a group of historians, librarians, computer scientists and designers to discuss how digitisation is changing historical research practices.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Jan 2020 15:56:03 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Jan 2020 15:56:03 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+
+    
+      <item>
+        <title>HIPE Shared Task</title>
+        <description>&lt;p&gt;&lt;strong&gt;HIPE - Identifying Historical People, Places and other Entities&lt;/strong&gt;: Shared Task on Named Entity Recognition and Linking on Historical Newspapers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pages/project-schema.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;HIPE is a named entity processing evaluation campaign on &lt;strong&gt;historical newspapers&lt;/strong&gt; in &lt;strong&gt;French&lt;/strong&gt;, &lt;strong&gt;German&lt;/strong&gt; and &lt;strong&gt;English&lt;/strong&gt;, organized in the context of the &lt;a href=&quot;http://impresso-project.ch&quot;&gt;&lt;em&gt;impresso&lt;/em&gt;&lt;/a&gt; project and run as a &lt;a href=&quot;https://clef2020.clef-initiative.eu/&quot;&gt;CLEF 2020&lt;/a&gt; Evaluation Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Motivation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the context of massive digitization of historical documents, the objective is to assess and advance the development of robust named entity processing systems able to deal with challenging, multilingual, diachronic historical material, thereby supporting information extraction and text understanding of cultural heritage data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tasks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Task 1: Named Entity Recognition and Classification (NERC)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Task 2 : Named Entity Linking (EL)&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;(visit this page to know more about tasks)&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Twitter: news will be posted via the &lt;a href=&quot;https://twitter.com/ImpressoProject/&quot;&gt;@ImpressoProject&lt;/a&gt;. Participants can also follow the &lt;a href=&quot;https://twitter.com/clef_initiative&quot;&gt;@clef_initiative &lt;/a&gt; account, and use the #clef2020 hash tag.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Discussion group for participants: https://groups.google.com/forum/#!forum/clef-hipe-2020&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Registration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Via the CLEF 2020 portal: &lt;a href=&quot;http://clef2020-labs-registration.dei.unipd.it/&quot;&gt;http://clef2020-labs-registration.dei.unipd.it/&lt;/a&gt; until 26 April 2020.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Dec 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2019/12/04/site-online/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/04/site-online/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>FAQs</title>
+            <description>&lt;p&gt;&lt;strong&gt;What are my transportation/parking options for getting to and from the event?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;More information will be pusblished on the workshop website.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You can reach EPFL by public transportation from the Lausanne or Renens train stations.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;See the Swiss Railway website for details and timetables.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How can I contact the organizer with any questions?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Eldorado workshop website will soon be up and contain all information. In case you do not find an answer to your question there, do not hesitate to contact us at info@impresso-project.ch.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do I have to bring my printed ticket to the event?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No, you do not need to bring you ticket.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I update my registration information?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes.&lt;/p&gt;
+</description>
+            <link>http://localhost:4000/faq/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Program</title>
+            <description>### Thursday 23 April 2019
+
+**The allure of the digitised newspapers**
+1. Claire-Lise Gaillard. _Feuilleter la presse ancienne par gigaoctets_
+2. Erik Koenen, Simon Sax and Falko Krause. _Die „Berliner Volkszeitung“ (1853–1944) aus der Distanz lesen. Praxis und Perspektiven des „Distant Reading“ von digitalisierten Zeitungen_
+3. Sarah Oberbichler. _Challenges and Pitfalls when working with Digital Newspaper Collections - an Example on the Topic “Return Migration” and the AustriaN Newspapers Online (ANNO) Platform_
+
+
+
+**Building digitised newspapers collections  - library, project, technical perspectives**
+1. Steven Claeyssens. _Digitised Collections of Historical Publications as Bibliographic Objects: the Delpher Newspaper Case_
+2. Giorgia Tolfo. _Hunting for Treasure: Living with Machines and the British Library Newspaper Collection_
+3. Yannick Rochat and Selim Krichane. _Exploring video game magazines_
+
+
+
+**Emerging practices of historiography with digitised newspapers**
+1. Korinna Schönhärl. _Steuermoralen. Diskurse über das ehrliche Steuerzahlen in Westdeutschland, Spanien und den USA von den 1940er bis 1980er Jahren_
+2. Zoé Kergomard. _Les journaux numérisés comme première « sonde »? Le traitement médiatique de l’abstention électorale dans l’après-guerre_
+3. Martin Grandjean. _Une analyse systématique de la médiatisation des débats de la Société des Nations dans le Journal de Genève_
+
+
+
+**Building a research-based digitised newspaper corpus**
+1. Malorie Guilbaud Perez. _Analyser un processus mémoriel au travers des archives de presse numérisées et physiques : l’exemple du Triangle Fire_
+2. Francois Robinet and Rémi Korman. _Des usages des collections numériques de la presse rwandaise pour écrire l’histoire du génocide des Tutsi_
+3. Christoph Hanzig, Martin Munke and Michael Thoß. _Digitizing and presenting a Nazi newspaper – the example “Der Freiheitskampf”_
+
+### Friday 24 April 2019
+
+**Reshaping the digitised newspapers collections**
+1. Pierre-Carl Langlais. _Classified news_
+2. Monika Kovarova-Simecek. _Cultural History of Financial News in Vienna (1771-1914) – A historical analysis using ANNO/ÖNB digital repository and ÖNBLabs_
+3. Melvin Wevers. _Historical Advertisements in Digitized Newspapers as a Lens on the Past_
+
+
+
+**Second digital life of analogue newspaper topical collections**
+1. Suzanna Krivulskaya. _The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives_
+2. Martin Gasteiner and Andreas Enderlin. _Crossing or Intersecting the Emperor´s Desk with digitized Newspaper Data (Arbeitstitel)_
+3. Irene Amstutz and Martin Reisacher. _Historische Zeitungsausschnitte im digitalen Eldorado_
+
+**OCR of digitised newspapers**
+1. Andrew Torget. _Mapping Texts: Examining the Effects of OCR Noise on Historical Newspaper Collections_
+2. Claudia Resch and Dario Kampkaspar. _iffi«-' ■= und £ann$b*i** - Forschen mit Fehlern: Textqualität bei der Digitalisierung historischer Zeitungen_
+3. Phillip Stroebel: _Towards Large-Scale OCR for Historical Newspapers with Self-Trained Models_
+
+
+
+**DH potentials for (media) history**
+1. Tobias von Waldkirch. _Le locuteur je comme principe d'organisation du discours dans les correspondances particulières du Journal de Genève au XIXe siècle : l’exemple de la couverture de guerre._
+2. Hannu Salmi, Petri Paju and Heli Rantala. _Cycles of Text Reuse in Finnish Newspapers and Periodicals, 1771–1920: Ontological and epistemological perspectives_
+3. Pelle Snickars. _Measuring &quot;the political&quot; in Swedish newspaper data during the 1960s and 1970s_
+</description>
+            <link>http://localhost:4000/program/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>read me</title>
+            <description># Type: Minimal and Clean Free Jekyll Theme
+
+&lt;img alt=&quot;Type: Minimal and Clean Free Jekyll Theme&quot; src=&quot;https://user-images.githubusercontent.com/626005/63093493-c3daa880-bf65-11e9-860e-da88047cce24.png&quot;&gt;
+
+- [Configurations](#configurations)
+- [Deployment](#deployment)
+- [Posts](#posts)
+- [Pages](#pages)
+- [Navigation](#navigation)
+- [Disqus Comments](#disqus-comments)
+- [Google Analytics](#google-analytics)
+- [Social Media Links](#social-media-links)
+- [Update favicon](#update-favicon)
+
+### Configurations
+
+Type theme comes with different customizations in the `_config.yml` file:
+
+```sh
+title:       Type
+email:       ''
+description: ''
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         '' # The base hostname &amp; protocol for your site
+twitter:     ''
+github:      ''
+instagram:   ''
+facebook:    ''
+
+markdown:  kramdown
+permalink: pretty
+paginate:  60
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-paginate
+  - jekyll/tagging
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+```
+
+### Deployment
+
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` to start the Jekyll server.
+
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+
+### Posts
+
+To create a new post, you can create a new markdown file inside the `_posts` directory by following the [recommended file structure](https://jekyllrb.com/docs/posts/#creating-post-files).
+
+The following is a post file with different configurations you can add as an example:
+
+```sh
+---
+layout: post
+title: Welcome to Jekyll!
+featured: true
+tags: [frontpage, jekyll, blog]
+image: '/images/welcome.jpg'
+---
+```
+
+You can set the author, featured or not, tags, and the post image.
+
+The `featured` key is to mark the post as a featured post, this will add a simple star icon (*) to the postcard.
+
+To keep things more organized, add post images to **/images/pages** directory, and add page images to **/images/pages** directory.
+
+To create a draft post, create the post file under the **_drafts** directory, and you can find more information at [Working with Drafts](http://jekyllrb.com/docs/drafts/).
+
+For tags, try to not add space between two words, for example, `Ruby on Rails`, could be something like (`ruby-on-rails`, `Ruby_on_Rails`, or `Ruby-on-Rails`).
+
+Note that tags are not working with GitHub Pages, that's because the used [jekyll-tagging
+](https://github.com/pattex/jekyll-tagging) plugin is not [whitelisted](https://pages.github.com/versions/) by GitHub.
+
+To make this work, I use [Netlify.com](https://www.netlify.com/) for deployment.
+
+### Pages
+
+To create a new page, just create a new markdown file inside the `_pages` directory.
+
+The following is the `about.md` file that you can find as an example included in the theme with the configurations you can set.
+
+```sh
+---
+layout: page
+title: About
+image: '/images/pages/about.jpeg'
+---
+```
+
+Things you can change are: `title` and `image` path.
+
+
+### Navigation
+
+The navigation on the sidebar will automatically include all the links to the pages you have created.
+
+### Disqus Comments
+
+Maxima Theme comes with Disqus comments enabled.
+
+Open `_includes/disqus.html` file, and change the `aspirethemes` value on line 15 with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208).
+
+```js
+s.src = '//aspirethemes-demo.disqus.com/embed.js';
+```
+
+So, if your Disqus shortname is `exampleone`, the final code above should be
+
+```js
+s.src = '//exampleone.disqus.com/embed.js';
+```
+
+That's all you need to setup Disqus from the theme side. If you get any issue regarding that comments are unable to load. First, make sure you have [registered your website with Disqus (Step 1)](https://help.disqus.com/customer/portal/articles/466182-publisher-quick-start-guide)
+
+And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22) if you still have issues.
+
+### Google Analytics
+
+To integrate Google Analytics, open `_includes/analytics.html`, and add your Google Analytics code.
+
+### Social Media Links
+
+Social media links included in `_includes/footer.html` file.
+
+The theme is using [Evil Icons](http://evil-icons.io/), which contains very simple and clean icons. The following is a list of the social media icons to use:
+
+Twitter
+
+```html
+&lt;span data-icon='ei-sc-twitter' data-size='s'&gt;&lt;/span&gt;
+```
+
+Facebook
+
+```html
+&lt;span data-icon='ei-sc-facebook' data-size='s'&gt;&lt;/span&gt;
+```
+
+Instagram
+
+```html
+&lt;span data-icon='ei-sc-instagram' data-size='s'&gt;&lt;/span&gt;
+```
+
+Pinterest
+
+```html
+&lt;span data-icon='ei-sc-pinterest' data-size='s'&gt;&lt;/span&gt;
+```
+
+Vimeo
+
+```html
+&lt;span data-icon='ei-sc-vimeo' data-size='s'&gt;&lt;/span&gt;
+```
+
+Google Plus
+
+```html
+&lt;span data-icon='ei-sc-google-plus' data-size='s'&gt;&lt;/span&gt;
+```
+
+SoundCloud
+
+```html
+&lt;span data-icon='ei-sc-soundcloud' data-size='s'&gt;&lt;/span&gt;
+```
+
+Tumblr
+
+```html
+&lt;span data-icon='ei-sc-tumblr' data-size='s'&gt;&lt;/span&gt;
+```
+
+Youtube
+
+```html
+&lt;span data-icon='ei-sc-youtube' data-size='s'&gt;&lt;/span&gt;
+```
+
+### Update favicon
+
+You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
+
+
+### Aspire Themes
+
+👉 Visit [**aspirethemes.com**](http://bit.ly/type-jekyll-github-link) for more Jekyll, Ghost, and WordPress themes.
+
+&lt;img alt=&quot;Aspire Themes&quot; src=&quot;https://user-images.githubusercontent.com/626005/63092640-afe17780-bf62-11e9-9ea9-546489bb282c.png&quot;&gt;
+</description>
+            <link>http://localhost:4000/readme.html</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Style Guide</title>
+            <description>At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
+
+Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana.
+
+---
+
+# Simple default styles for headings
+
+## Simple default styles for headings
+
+### Simple default styles for headings
+
+#### Simple default styles for headings
+
+##### Simple default styles for headings
+
+###### Simple default styles for headings
+
+---
+
+* Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
+* Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor.
+* Donec nibh massa, rutrum a sollicitudin eu, lacinia in lorem.
+
+---
+
+1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
+2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in.
+3. Donec nibh massa, rutrum a sollicitudin eu.
+
+---
+
+&gt; Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana
+
+---
+
+{% highlight js %}
+'use strict';
+var markdown = require('markdown').markdown;
+function Editor(input, preview) {
+  this.update = function() {
+    preview.innerHTML = markdown.toHTML(input.value);
+  };
+  input.editor = this;
+  this.update();
+}
+{% endhighlight %}
+
+You can add inline code just like this, E.g. `.code { color: #fff; }`
+
+{% highlight css %}
+pre {
+  background-color: #f4f4f4;
+  max-width: 100%;
+  overflow: auto;
+}
+{% endhighlight %}
+
+---
+
+Cras sed sodales enim. Duis nec erat magna. Sed scelerisque pretium mi et [unsplash](https://unsplash.com/) ullamcorper mauris aliquam ornare fringilla. In luctus commodo quam eget posuere.
+
+---
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/97202679&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+
+&lt;iframe src=&quot;https://embed.ted.com/talks/ted_halstead_a_climate_solution_where_all_sides_can_win&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29738591&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
+---
+
+&lt;p data-height=&quot;265&quot; data-theme-id=&quot;light&quot; data-slug-hash=&quot;YWvpRo&quot; data-default-tab=&quot;css,result&quot; data-user=&quot;kharrop&quot; data-embed-version=&quot;2&quot; data-pen-title=&quot;Referral Form&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/kharrop/pen/YWvpRo/&quot;&gt;Referral Form&lt;/a&gt; by Kelly Harrop (&lt;a href=&quot;http://codepen.io/kharrop&quot;&gt;@kharrop&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async src=&quot;https://production-assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+---
+
+![about](/images/pages/about.jpeg)
+
+---
+
+&lt;input type=&quot;text&quot; placeholder=&quot;I'm an input field!&quot;&gt;
+
+---
+
+&lt;button class='c-btn c-btn--small'&gt;Button&lt;/button&gt;
+
+&lt;button class='c-btn'&gt;Button&lt;/button&gt;
+
+&lt;button class='c-btn c-btn--full'&gt;Button&lt;/button&gt;
+
+{% highlight html %}
+&lt;button class='c-btn c-btn--small'&gt;Button&lt;/button&gt;
+&lt;button class='c-btn'&gt;Button&lt;/button&gt;
+&lt;button class='c-btn c-btn--full'&gt;Button&lt;/button&gt;
+{% endhighlight %}
+</description>
+            <link>http://localhost:4000/style-guide.html</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>
