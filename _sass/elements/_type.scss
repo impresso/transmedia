@@ -9,18 +9,20 @@ $font-size-h4:  20px;
 $font-size-h5:  18px;
 $font-size-h6:  16px;
 
-h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: Georgia, serif;
   font-weight: inherit;
   line-height: initial;
+  font-weight: $font-weight-bold;
 }
 
 h1 {
+  font-family: Georgia, serif;
+  font-weight: inherit;
+  line-height: initial;
   font-size: $font-size-h1;
 }
 
