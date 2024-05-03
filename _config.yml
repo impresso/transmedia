@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Eldorado-Workshop
+title:       Transmedia Conference 2025
 email:       'info@impresso-project.ch'
-description: 'The Eldorado workshop, supported by the impresso project, will bring together a group of historians, librarians, computer scientists and designers to discuss how digitisation is changing historical research practices.'
-baseurl:     '/eldorado' # The subpath of your site, e.g. /blog
+description: 'How can “transmedia” history be put into practice from both theoretical and empirical perspectives? The international conference “Transmedia History”—held by the impresso project and the University of Lausanne’s History Department—will gather researchers around this question to exchange views on the new prospects opened by digitisation and digital tools to carry out transmedia research.'
+baseurl:     '/transmedia-conference' # The subpath of your site, e.g. /blog
 url:         'https://impresso.github.io' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/impressoproject'
-github:      'https://github.com/impresso/eldorado'
+github:      'https://github.com/impresso/transmedia-conference'
 
 
 markdown:  kramdown
