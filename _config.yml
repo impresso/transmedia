@@ -9,10 +9,10 @@
 title:       Transmedia Conference 2025
 email:       'info@impresso-project.ch'
 description: 'How can “transmedia” history be put into practice from both theoretical and empirical perspectives? The international conference “Transmedia History”—held by the impresso project and the University of Lausanne’s History Department—will gather researchers around this question to exchange views on the new prospects opened by digitisation and digital tools to carry out transmedia research.'
-baseurl:     '/transmedia-conference' # The subpath of your site, e.g. /blog
+baseurl:     '/transmedia' # The subpath of your site, e.g. /blog
 url:         'https://impresso.github.io' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/impressoproject'
-github:      'https://github.com/impresso/transmedia-conference'
+github:      'https://github.com/impresso/transmedia'
 
 
 markdown:  kramdown
