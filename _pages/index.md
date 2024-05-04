@@ -10,7 +10,7 @@ image:
 # Transmedia History: Circulations, Reconfigurations and New Methodologies
 <img src="images/impresso.png" alt="image" width="300" height="auto" align="right">
 
-## International conference
+### International conference
 University of Lausanne, 27-28 January 2025
 
 ![Transmedia Conference](images/transmediaconference2025.jpg)
