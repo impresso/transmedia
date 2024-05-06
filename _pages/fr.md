@@ -1,7 +1,7 @@
 ---
 title: Appel à communications (FR)
 title_long: 
-permalink: /
+permalink: /fr
 layout: index
 order: 0
 image: 
