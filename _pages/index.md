@@ -13,7 +13,7 @@ image:
 ### International conference
 University of Lausanne, 27-28 January 2025
 
-<p><img src="images/transmedia_illustration_en.png" alt="Transmedia conference" style="vertical-align:middle;margin:0px -30px"></p>
+<p><img src="images/transmedia_illustration_en.png" alt="Transmedia conference" width="950" style="vertical-align:middle;margin:0px -100px 0px -100px"></p>
 
 ## Call for papers
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/fr';">This call for papers is also available in French</button>
