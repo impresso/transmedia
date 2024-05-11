@@ -7,13 +7,25 @@ order: 0
 image: 
 
 ---
+
+<head>
+<style>
+img {
+  display: block;
+  margin-left: -30px;
+  margin-right: -30px;
+}
+</style>
+</head>
+
+
 # Transmedia History: Circulations, Reconfigurations and New Methodologies
 <img src="images/impresso.png" alt="image" width="300" height="auto" align="right">
 
 ### International conference
 University of Lausanne, 27-28 January 2025
 
-<p><img src="images/transmedia_illustration_en.png" alt="Transmedia conference" width="120%" class="center" style="margin:0px -100px"></p>
+<p><img src="images/transmedia_illustration_en.png" alt="Transmedia conference" style="width:120%;"></p>
 
 ## Call for papers
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/fr';">This call for papers is also available in French</button>
