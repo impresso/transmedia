@@ -13,8 +13,8 @@ image:
 ### International conference
 University of Lausanne, 27-28 January 2025
 
-![Transmedia Conference](images/transmediaconference2025.jpg)
-<div style="font-size: x-small">↑ A crowd of journalists attending District Attorney Henry Wade's press conference in Dallas on 25 November 1963, three days after the assassination of President Kennedy. Photo Bill Sauro, Library of Congress, <a href="https://commons.wikimedia.org/wiki/File:Henry_Wade_1963_press_conference_NYWTS.jpg">Creative Commons</a></div><br>
+![Transmedia Conference](images/transmedia_illustration_en.png)
+<br>
 
 ## Call for papers
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/fr';">This call for papers is also available in French</button>
