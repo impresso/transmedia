@@ -94,7 +94,7 @@ Marten Düring, C²DH, Université du Luxembourg<br>
 Martin Grandjean, Section d’histoire, Université de Lausanne<br>
 Arthur Michelet, Section d’histoire, Université de Lausanne<br>
 
-Please contact Martin Grandjean ([martin.grandjean[at]unil.ch](mailto:martin.grandjean@unil.ch)) for any questions related to this call for papers.
+Please contact Martin Grandjean (martin.grandjean[at]unil.ch) for any questions related to this call for papers.
 
 ### Scientific committee (in alphabetical order)
 Alexander Badenoch (Utrecht University); Gabriele Balbi (Università della Svizzera italiana); Kaspar Beelen (University of London); Mireille Berton (Université de Lausanne); Carolyn Birdsall (University of Amsterdam); Marie Cronqvist (Linköping University); Andreas Fickers (Université du Luxembourg); Matthieu Letourneux (Université Paris Nanterre); Simone Natale (Università degli Studi di Torino); Nathalie Pignard-Cheynel (Université de Neuchâtel); Yannick Rochat (Université de Lausanne); Valérie Schafer (Université du Luxembourg); Thomas Smits (University of Amsterdam); Dominique Trudel (Audencia Business School); Nelly Valsangiacomo (Université de Lausanne); Hans-Ulrich Wagner (Hans Bredow Institute); Anne-Katrin Weber (Université de Lausanne); Melvin Wevers (University of Amsterdam); Daniela Zetti (Universität zu Lübeck).
