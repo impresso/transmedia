@@ -14,8 +14,7 @@ We are pleased to announce a call for papers for the international conference or
 <!-- more -->
 
 ## International conference in Lausanne
-{% assign figure=page.figure[0] %}
-{% include figure.html %}
+...Insert figure tag here...
 
 How can “transmedia” history be put into practice from both theoretical and empirical perspectives? The international conference “Transmedia History”—organised by the Impresso project and the University of Lausanne’s History Department—will gather scholars from various backgrounds around this question to exchange views on new prospects opened by digitisation and digital tools to carry out transmedia research.
 
