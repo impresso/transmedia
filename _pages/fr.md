@@ -91,7 +91,7 @@ Marten Düring, C²DH, Université du Luxembourg<br>
 Martin Grandjean, Section d’histoire, Université de Lausanne<br>
 Arthur Michelet, Section d’histoire, Université de Lausanne
 
-Merci de contacter Martin Grandjean ([martin.grandjean[at]unil.ch](mailto:martin.grandjean@unil.ch)) pour toute question relative à cet appel.
+Merci de contacter Martin Grandjean (martin.grandjean[at]unil.ch) pour toute question relative à cet appel.
 
 
 ### Comité scientifique (par ordre alphabétique)  
