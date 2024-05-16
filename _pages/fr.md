@@ -14,7 +14,6 @@ image:
 Université de Lausanne, 27-28 Janvier 2025
 
 ![Transmedia Conference](images/transmedia_illustration_fr.png)
-<div style="font-size: x-small">↑ Une foule de journalistes suivant la conférence de presse du procureur Henry Wade à Dallas le 25 novembre 1963, trois jours après l’assassinat du président Kennedy. Photo Bill Sauro, Library of Congress, <a href="https://commons.wikimedia.org/wiki/File:Henry_Wade_1963_press_conference_NYWTS.jpg">Creative Commons</a></div><br>
 
 ## Appel à communications
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/';">Cet appel est également disponible en anglais</button> <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/fr';">PDF (Français)</button>
