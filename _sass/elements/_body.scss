@@ -7,6 +7,8 @@ body {
   font-size: $font-size-base;
   font-family: $font-base;
   line-height: $line-height-base;
+  text-align: justify;
+  text-justify: inter-word;
 
   -webkit-font-smoothing: antialiased;
    -moz-osx-font-smoothing: grayscale;
