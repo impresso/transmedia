@@ -87,9 +87,13 @@ Proposals (max. 350 words) should include a title, a clear outline of the resear
 
 ### Organisation committee
 Raphaëlle Ruppen Coutaz, Section d’histoire, Université de Lausanne
+
 François Vallotton, Section d’histoire, Université de Lausanne
+
 Marten Düring, C²DH, Université du Luxembourg
+
 Martin Grandjean, Section d’histoire, Université de Lausanne
+
 Arthur Michelet, Section d’histoire, Université de Lausanne
 
 ### Scientific committee (in alphabetical order)
