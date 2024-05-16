@@ -16,7 +16,7 @@ Université de Lausanne, 27-28 Janvier 2025
 ![Transmedia Conference](images/transmedia_illustration_fr.png)
 
 ## Appel à communications
-<button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/';">Cet appel est également disponible en anglais</button> <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/fr';">PDF (Français)</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/';">Cet appel est également disponible en anglais</button> <button class="button button1" onclick="window.location.href='files/cfp_transmedia_fr.pdf';">PDF (Français)</button>
 
 ### Argumentaire
 Comment mettre en pratique une histoire “transmedia” sur le plan aussi bien empirique que théorique? Le colloque international “Transmedia History”, soutenu par le [projet Impresso](https://impresso-project.ch) et la [Section d’histoire de l’Université de Lausanne](https://www.unil.ch/hist/home.html), réunira des chercheuses et des chercheurs de plusieurs disciplines pour croiser les regards sur cette question et échanger autour des nouvelles ouvertures autorisées par la numérisation d’abord, par les nouveaux outils développés ensuite à l’ère numérique, pour conduire des recherches transmédias.
