@@ -85,14 +85,16 @@ Les propositions (350 mots max.) comporteront un titre, une problématique expli
 
 ### Comité d’organisation
 
-Raphaëlle Ruppen Coutaz, Section d’histoire, Université de Lausanne<br>
-François Vallotton, Section d’histoire, Université de Lausanne<br>
-Marten Düring, C²DH, Université du Luxembourg<br>
-Martin Grandjean, Section d’histoire, Université de Lausanne<br>
-Arthur Michelet, Section d’histoire, Université de Lausanne
+**Raphaëlle Ruppen Coutaz**, Section d’histoire, Université de Lausanne<br>
+**François Vallotton**, Section d’histoire, Université de Lausanne<br>
+**Marten Düring**, C²DH, Université du Luxembourg<br>
+**Martin Grandjean**, Section d’histoire, Université de Lausanne<br>
+**Arthur Michelet**, Section d’histoire, Université de Lausanne
 
 Merci de contacter Martin Grandjean (martin.grandjean[at]unil.ch) pour toute question relative à cet appel.
 
+### Keynote speaker
+[**Marie Cronqvist**](https://liu.se/en/employee/marcr79), professeure d'histoire des médias à l'Université de Linköping, Suède.
 
 ### Comité scientifique (par ordre alphabétique)  
 Alexander Badenoch (Utrecht University); Gabriele Balbi (Università della Svizzera italiana); Kaspar Beelen (University of London); Mireille Berton (Université de Lausanne); Carolyn Birdsall (University of Amsterdam); Marie Cronqvist (Linköping University); Andreas Fickers (Université du Luxembourg); Matthieu Letourneux (Université Paris Nanterre); Simone Natale (Università degli Studi di Torino); Nathalie Pignard-Cheynel (Université de Neuchâtel); Yannick Rochat (Université de Lausanne); Valérie Schafer (Université du Luxembourg); Thomas Smits (University of Amsterdam); Dominique Trudel (Audencia Business School); Nelly Valsangiacomo (Université de Lausanne); Hans-Ulrich Wagner (Hans Bredow Institute); Anne-Katrin Weber (Université de Lausanne); Melvin Wevers (University of Amsterdam); Daniela Zetti (Universität zu Lübeck). 
