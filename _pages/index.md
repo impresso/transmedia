@@ -79,7 +79,7 @@ If speakers' home institutions cannot cover travel and accommodation costs, part
 
 Proposals (max. 350 words) should include a title, a clear outline of the research question, a bibliography (max. 5 references); please add a short bio-bibliographical note (max. 150 words) and a note as to whether or not you intend to travel to Lausanne. In EasyChair, please use the “Title and abstract” section to upload your plain text proposal: the abstract, its references and the bio–bibliographical note can be inserted in the same field. No need to produce a PDF document.
 
-**Early September, 2024**: Notification of acceptance after a selection process conducted with the help of the Scientific Committee members.
+**Early <ins>October</ins>, 2024**: Notification of acceptance after a selection process conducted with the help of the Scientific Committee members.
 
 **December 13, 2024**: Those interested in taking part in the publication project submit a paper of circa 6,000 words to be forwarded to the organisers and panel discussants.
 
