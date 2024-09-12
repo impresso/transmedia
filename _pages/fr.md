@@ -75,7 +75,7 @@ S'ils ne peuvent être couverts par l'institution qui les emploie, les frais de 
 
 Les propositions (350 mots max.) comporteront un titre, une problématique explicite, une bibliographie (5 références max.); merci d’y joindre une courte notice bio-bibliographique (150 mots max.) et une note sur votre intention ou non de vous déplacer à Lausanne. Dans EasyChair, veuillez utiliser la section “Title and abstract” pour entrer votre proposition en plein texte: le résumé, ses références et la note bio-bibliographique peuvent être insérés dans le même champ. Pas besoin de produire un document PDF.
 
-**Début septembre 2024** : Notifications d’acceptation après un processus de sélection conduit avec l’aide des membres du Comité scientifique.
+**Début <ins>octobre</ins> 2024** : Notifications d’acceptation après un processus de sélection conduit avec l’aide des membres du Comité scientifique.
 
 **31 décembre 2024** : Pour les personnes intéressées à prendre part au projet de publication, envoi d’un papier d’environ 6’000 mots qui sera mis à disposition de la discutante ou du discutant du panel.
 
