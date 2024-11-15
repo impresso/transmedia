@@ -30,32 +30,34 @@ To find out more about the conference, please have a look at the call for papers
 
 **09:30-10:00	Introduction**
 <ul>
-  <li>_Introduction to the Conference_ | Raphaëlle Ruppen Coutaz, François Vallotton and Martin Grandjean (University of Lausanne)</li>
-  <li>_The Impresso Project_ | Maud Ehrmann (EPFL) and Marten Düring (University of Luxembourg)</li>
+  <li><em>Introduction to the Conference</em> | Raphaëlle Ruppen Coutaz, François Vallotton and Martin Grandjean (University of Lausanne)</li>
+  <li><em>The Impresso Project</em> | Maud Ehrmann (EPFL) and Marten Düring (University of Luxembourg)</li>
 </ul>
 
 **10:00-10:30	Coffee break**
 
 #### TRANSMEDIATIC ACTORS, NETWORKS AND PRACTICES
-**10:30-12:30	Session 1** Chair: Carolyn Birdsall (University of Amsterdam)	
+**10:30-12:30	Session 1** | Chair: Carolyn Birdsall (University of Amsterdam)	
 
-_"No Wall is Thick Enough to Stop Them" - Transmediality and Colonial-Critical Resistance in French West Africa 1900 - 1914_
-Philipp Horn (University of Bern)
-
-_Geneva's Media Microcosm and the League of Nations in the Interwar Period_
-Martin Grandjean (University of Lausanne)
-
-_Cross Media History in the mid-20th Century: The American Foreign Correspondents, the Rise of National Socialism, and the Convergence of Print and Radio Reporting _
-Norman Domeier (Charles University Prague)
-
-_La diffusion du rock en France : approche transmédiatique (années 1960 et 1970)_
-Maxime Guebey (Université de Tours)
+<ul>
+  <li><em>No Wall is Thick Enough to Stop Them" - Transmediality and Colonial-Critical Resistance in French West Africa 1900 - 191</em> | Philipp Horn (University of Bern)</li>
+  <li><em>Geneva's Media Microcosm and the League of Nations in the Interwar Period</em> | Martin Grandjean (University of Lausanne)</li>
+  <li><em>Cross Media History in the mid-20th Century: The American Foreign Correspondents, the Rise of National Socialism, and the Convergence of Print and Radio Reporting</em> | Norman Domeier (Charles University Prague)</li>
+  <li><em>La diffusion du rock en France : approche transmédiatique (années 1960 et 1970)</em> | Maxime Guebey (Université de Tours)</li>
+</ul>
 		
 **12:30-14:00 Lunch**
 		
 **14:00-16:00	Session 2**
 ARCHAEOLOGIES, RECONFIGURATIONS AND NEW GENEALOGIES
 Chair: Anne-Katrin Weber (University of Lausanne) 	
+
+<ul>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+</ul>
 
 _L’animation, catalyseur transmédiatique _
 Antoine Rigaud (Université Paris Nanterre)
@@ -74,6 +76,13 @@ Jesper Verhoef (University of Groningen)
 **16:30-18:30	Session 3**
 CIRCULATIONS, ADAPTATIONS AND RECIPROCAL INFLUENCES
 Chair: Yannick Rochat (University of Lausanne)	
+
+<ul>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+</ul>
 
 _Digital Throws of the Dice: A Genealogy of Rhetoric in Fallout_
 Clay Foye (EPFL)
@@ -102,6 +111,13 @@ Marie Cronqvist (Linköping University)
 TRANSMEDIA MOBILIZATIONS AND PROPAGANDA
 Chair: Valérie Schafer (University of Luxembourg)	
 
+<ul>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+</ul>
+
 _Transmediality and Colonial Diplomacy: The Berlin Conference (1884-1885) Through Diplomatic Correspondence, “Livre Jaunes” and the French Press _
 Ferdaous Affan (University of Luxembourg)
 
@@ -120,6 +136,13 @@ Arthur Michelet (University of Lausanne)
 CHALLENGES AND OPPORTUNITIES OF THE TRANSMEDIA APPROACH
 Chair: Marie Cronqvist (Linköping University) 	
 
+<ul>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+</ul>
+
 _Just to be Safe. Towards a Frame Analysis of 70 years of Global Debate on the Civil Usage of Nuclear Power Between Science, Activists and Newspapers_
 Marten Düring (University of Luxembourg) and Kaspar Beelen (University of London)
 
@@ -132,6 +155,13 @@ Dusan Bozalka (University Paris-Panthéon-Assas)
 **15:30-16:00	Coffee break**
 
 **16:00-17:00	Session 5 (continued)**	
+
+<ul>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+  <li><em></em> | </li>
+</ul>
 
 _From Oral History to Metadata? Report from the Oral History and Radio Archivists (ORHA) Pilot Project_
 Carolyn Birdsall (University of Amsterdam) and Marten Düring (University of Luxembourg)
