@@ -127,24 +127,24 @@ Marten Düring (University of Luxembourg) and Kaspar Beelen (University of Londo
 
 _A Transmedia History Approach to Studying the Cultural Politics of Software Interfaces, 1977-1995_
 Patryk Wasiak (Polish Academy of Sciences)
-15:00-15:30		Archiving Multiplatform Conspiracy Social Spaces: 
-A Case Study of the QAnon Counter-Public
+
+_Archiving Multiplatform Conspiracy Social Spaces: A Case Study of the QAnon Counter-Public_
 Dusan Bozalka (University Paris-Panthéon-Assas)
-15:30-16:00		Coffee break
-16:00-16:30	Session 5 
-(continued)	From Oral History to Metadata? Report from the Oral History and Radio Archivists (ORHA) Pilot Project
-Carolyn Birdsall (University of Amsterdam) 
-and Marten Düring (University of Luxembourg)
-16:30-17:00		Research Data Infrastructures Before They Were Cool: 
-Microfilms, Photocopies and Early Digital Storage Devices 
-in Humanities Scholarship (1950-1990)
+
+**15:30-16:00	Coffee break**
+
+**16:00-17:00	Session 5 (continued)**	
+
+_From Oral History to Metadata? Report from the Oral History and Radio Archivists (ORHA) Pilot Project_
+Carolyn Birdsall (University of Amsterdam) and Marten Düring (University of Luxembourg)
+
+_Research Data Infrastructures Before They Were Cool: Microfilms, Photocopies and Early Digital Storage Devices in Humanities Scholarship (1950-1990)_
 Anna-Maria Sichani (University of London)
-17:00-17:30	Conclusion	Conference Conclusion 
+
+**17:00-17:30	Conclusion**
+
+_Conference Conclusion_
 Raphaëlle Ruppen Coutaz, François Vallotton and Martin Grandjean (University of Lausanne)
-A Transmedia Impresso? 
+
+_A Transmedia Impresso?_ 
 Maud Ehrmann (EPFL) and Marten Düring (University of Luxembourg)
-
-![image](https://github.com/user-attachments/assets/4df24da5-52ad-4795-990c-1c01b2d43735)
-
-
-
