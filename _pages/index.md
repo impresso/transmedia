@@ -29,27 +29,28 @@ To find out more about the conference, please have a look at the call for papers
 **09:00-09:30 Welcome**
 
 **09:30-10:00	Introduction**
-Introduction to the Conference 
+_Introduction to the Conference_ 
 Raphaëlle Ruppen Coutaz, François Vallotton and Martin Grandjean (University of Lausanne)
-The Impresso Project 
+_The Impresso Project_ 
 Maud Ehrmann (EPFL) and Marten Düring (University of Luxembourg)
 
 **10:00-10:30	Coffee break**
 
 **10:30-12:30	Session 1**
-TRANSMEDIATIC ACTORS, NETWORKS AND PRACTICES
+
+TRANSMEDIATIC ACTORS, NETWORKS AND PRACTICES 
 Chair: Carolyn Birdsall (University of Amsterdam)	
 
-"No Wall is Thick Enough to Stop Them" - Transmediality and Colonial-Critical Resistance in French West Africa 1900 - 1914
+_"No Wall is Thick Enough to Stop Them" - Transmediality and Colonial-Critical Resistance in French West Africa 1900 - 1914_
 Philipp Horn (University of Bern)
 
-Geneva's Media Microcosm and the League of Nations in the Interwar Period
+_Geneva's Media Microcosm and the League of Nations in the Interwar Period_
 Martin Grandjean (University of Lausanne)
 
-Cross Media History in the mid-20th Century: The American Foreign Correspondents, the Rise of National Socialism, and the Convergence of Print and Radio Reporting 
+_Cross Media History in the mid-20th Century: The American Foreign Correspondents, the Rise of National Socialism, and the Convergence of Print and Radio Reporting _
 Norman Domeier (Charles University Prague)
 
-La diffusion du rock en France : approche transmédiatique (années 1960 et 1970)
+_La diffusion du rock en France : approche transmédiatique (années 1960 et 1970)_
 Maxime Guebey (Université de Tours)
 		
 **12:30-14:00 Lunch**
@@ -58,16 +59,16 @@ Maxime Guebey (Université de Tours)
 ARCHAEOLOGIES, RECONFIGURATIONS AND NEW GENEALOGIES
 Chair: Anne-Katrin Weber (University of Lausanne) 	
 
-L’animation, catalyseur transmédiatique 
+_L’animation, catalyseur transmédiatique _
 Antoine Rigaud (Université Paris Nanterre)
 
-‘The One-Eyed Devil’: How Radio and Television were Perceived and Received in Wales, 1920s-1960s
+_‘The One-Eyed Devil’: How Radio and Television were Perceived and Received in Wales, 1920s-1960s_
 Jamie Medhurst (Aberystwyth University)
 
-“CD-ROMS in Print”: Transmediality in Early Digital Culture
+_“CD-ROMS in Print”: Transmediality in Early Digital Culture_
 Alina Volynskaya and Valérie Schafer (University of Luxembourg)
 
-The Fax and Teletext. Imagining the Future in the 1980s and 1990s
+_The Fax and Teletext. Imagining the Future in the 1980s and 1990s_
 Jesper Verhoef (University of Groningen)
 
 **16:00-16:30 Coffee break**
@@ -76,64 +77,55 @@ Jesper Verhoef (University of Groningen)
 CIRCULATIONS, ADAPTATIONS AND RECIPROCAL INFLUENCES
 Chair: Yannick Rochat (University of Lausanne)	
 
-Digital Throws of the Dice: A Genealogy of Rhetoric in Fallout
+_Digital Throws of the Dice: A Genealogy of Rhetoric in Fallout_
 Clay Foye (EPFL)
 
-Impact des temporalités divergentes entre médias et territoires : le cas Dragon Ball au Japon, en Europe et aux États-Unis
+_Impact des temporalités divergentes entre médias et territoires : le cas Dragon Ball au Japon, en Europe et aux États-Unis_
 Bounthavy Suvilay (Université de Lille)
 
-Des serveurs BBS à la TSR : l'histoire transmédiatique de "Star Stormer" (1991)
+_Des serveurs BBS à la TSR : l'histoire transmédiatique de "Star Stormer" (1991)_
 Pierre-Yves Hurel and Guillaume Guenat (University of Lausanne)
 
-Les nouveaux modes de production et de circulation de l’«actualité littéraire». La presse littéraire européenne 
-francophone à l’épreuve du numérique
+_Les nouveaux modes de production et de circulation de l’«actualité littéraire». La presse littéraire européenne 
+francophone à l’épreuve du numérique_
 Léa Kœnig (EHESS)
 
 **18:30-20:00 Social event**
 
 ### TUESDAY 28 JANUARY 2025
 
-09:00-09:30	Keynote lecture	Beyond Entangled Media Histories? 
-Reflections on Historical Research after the Transnational 
-and Transmedia Turns
-Marie Cronqvist 
-(Linköping University)
-09:30-10:00		
-10:00-10:30		Coffee break
-10:30-11:00	Session 4
+**09:00-10:00	Keynote lecture**	
+_Beyond Entangled Media Histories? Reflections on Historical Research after the Transnational and Transmedia Turns_
+Marie Cronqvist (Linköping University)
+	
+**10:00-10:30 Coffee break**
 
+**10:30-12:30	Session 4**
 TRANSMEDIA MOBILIZATIONS AND PROPAGANDA
+Chair: Valérie Schafer (University of Luxembourg)	
 
-Chair: Valérie Schafer 
-(University of Luxembourg)	Transmediality and Colonial Diplomacy: The Berlin Conference 
-(1884-1885) Through Diplomatic Correspondence, “Livre Jaunes” 
-and the French Press 
+_Transmediality and Colonial Diplomacy: The Berlin Conference (1884-1885) Through Diplomatic Correspondence, “Livre Jaunes” and the French Press _
 Ferdaous Affan (University of Luxembourg)
-11:00-11:30		Faire une histoire visuelle et médiatique du tourisme, 
-un enjeu transmédiatique : l’exemple de la Tchécoslovaquie 
-en contexte de guerre froide
+
+_Faire une histoire visuelle et médiatique du tourisme, un enjeu transmédiatique : l’exemple de la Tchécoslovaquie en contexte de guerre froide_
 Marie Blanc (Université Grenoble Alpes)
-11:30-12:00		The Intellectual Life that Oil Fostered: Exploring the History 
-of a ‘Media Ecosystem’ in Latin America (1950-1980)
+
+_The Intellectual Life that Oil Fostered: Exploring the History of a ‘Media Ecosystem’ in Latin America (1950-1980)_
 Juan-David Murillo (Instituto Caro y Cuervo)
-12:00-12:30		Transmedia Strategies in the Swiss Bankers' Association's 
-Public Relations (1965-77)
+
+_Transmedia Strategies in the Swiss Bankers' Association's Public Relations (1965-77)_
 Arthur Michelet (University of Lausanne)
 		
+**12:30-14:00 Lunch**
 		
-12:30-14:00		Lunch
-		
-14:00-14:30	Session 5
-
+**14:00-15:30	Session 5**
 CHALLENGES AND OPPORTUNITIES OF THE TRANSMEDIA APPROACH
+Chair: Marie Cronqvist (Linköping University) 	
 
-Chair: Marie Cronqvist 
-(Linköping University) 	Just to be Safe. Towards a Frame Analysis of 70 years of 
-Global Debate on the Civil Usage of Nuclear Power 
-Between Science, Activists and Newspapers
-Marten Düring (University of Luxembourg) 
-and Kaspar Beelen (University of London)
-14:30-15:00		A Transmedia History Approach to Studying the Cultural Politics of Software Interfaces, 1977-1995
+_Just to be Safe. Towards a Frame Analysis of 70 years of Global Debate on the Civil Usage of Nuclear Power Between Science, Activists and Newspapers_
+Marten Düring (University of Luxembourg) and Kaspar Beelen (University of London)
+
+_A Transmedia History Approach to Studying the Cultural Politics of Software Interfaces, 1977-1995_
 Patryk Wasiak (Polish Academy of Sciences)
 15:00-15:30		Archiving Multiplatform Conspiracy Social Spaces: 
 A Case Study of the QAnon Counter-Public
