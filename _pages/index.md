@@ -29,17 +29,15 @@ To find out more about the conference, please have a look at the call for papers
 **09:00-09:30 Welcome**
 
 **09:30-10:00	Introduction**
-_Introduction to the Conference_ 
-Raphaëlle Ruppen Coutaz, François Vallotton and Martin Grandjean (University of Lausanne)
-_The Impresso Project_ 
-Maud Ehrmann (EPFL) and Marten Düring (University of Luxembourg)
+<ul>
+  <li>_Introduction to the Conference_ | Raphaëlle Ruppen Coutaz, François Vallotton and Martin Grandjean (University of Lausanne)</li>
+  <li>_The Impresso Project_ | Maud Ehrmann (EPFL) and Marten Düring (University of Luxembourg)</li>
+</ul>
 
 **10:00-10:30	Coffee break**
 
-**10:30-12:30	Session 1**
-
-TRANSMEDIATIC ACTORS, NETWORKS AND PRACTICES 
-Chair: Carolyn Birdsall (University of Amsterdam)	
+#### TRANSMEDIATIC ACTORS, NETWORKS AND PRACTICES
+**10:30-12:30	Session 1** Chair: Carolyn Birdsall (University of Amsterdam)	
 
 _"No Wall is Thick Enough to Stop Them" - Transmediality and Colonial-Critical Resistance in French West Africa 1900 - 1914_
 Philipp Horn (University of Bern)
