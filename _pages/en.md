@@ -1,7 +1,7 @@
 ---
 title: Call for papers (EN)
 title_long: 
-permalink: /
+permalink: /en
 layout: index
 order: 0
 image: 
