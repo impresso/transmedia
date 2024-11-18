@@ -123,7 +123,7 @@ francophone à l’épreuve du numérique</em> | Léa Kœnig (EHESS)</li>
 **16:00-17:00	Session 5** (continued)	
 
 <ul>
-  <li><em>From Oral History to Metadata? Report from the Oral History and Radio Archivists (ORHA) Pilot Project</em> | Carolyn Birdsall (University of Amsterdam) and Marten Düring (University of Luxembourg)</li>
+  <li><em>From Oral History to Metadata? Report from the Oral History and Radio Archivists (OHRA) Pilot Project</em> | Carolyn Birdsall (University of Amsterdam) and Marten Düring (University of Luxembourg)</li>
   <li><em>Research Data Infrastructures Before They Were Cool: Microfilms, Photocopies and Early Digital Storage Devices in Humanities Scholarship (1950-1990)</em> | Anna-Maria Sichani (University of London)</li>
 </ul>
 
