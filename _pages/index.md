@@ -30,6 +30,8 @@ To find out more about the conference, please have a look at the call for papers
 
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/';">Conference program in PDF</button> <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/registration';">Conference registration</button>
 
+Registration is open until January 20.
+
 <hr>
 
 ### MONDAY 27 JANUARY 2025
