@@ -62,7 +62,7 @@ Registration is open until January 20.
 **14:00-16:00	Session 2** | Chair: Anne-Katrin Weber (University of Lausanne) 	
 
 <ul>
-  <li><em>L’animation, catalyseur transmédiatique</em> | Antoine Rigaud (Université Paris Nanterre)</li>
+  <li><em>Animation as a Transmedia Catalyst</em> | Antoine Rigaud (Université Paris Nanterre)</li>
   <li><em>‘The One-Eyed Devil’: How Radio and Television were Perceived and Received in Wales, 1920s-1960s</em> | Jamie Medhurst (Aberystwyth University)</li>
   <li><em>CD-ROMS in Print”: Transmediality in Early Digital Culture</em> | Alina Volynskaya and Valérie Schafer (University of Luxembourg)</li>
   <li><em>The Fax and Teletext. Imagining the Future in the 1980s and 1990s</em> | Jesper Verhoef (University of Groningen)</li>
