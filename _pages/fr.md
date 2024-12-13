@@ -77,11 +77,9 @@ Les propositions (350 mots max.) comporteront un titre, une problématique expli
 
 **Début <ins>octobre</ins> 2024** : Notifications d’acceptation après un processus de sélection conduit avec l’aide des membres du Comité scientifique.
 
-**31 décembre 2024** : Pour les personnes intéressées à prendre part au projet de publication, envoi d’un papier d’environ 6’000 mots qui sera mis à disposition de la discutante ou du discutant du panel.
+**10 janvier 2025** : Envoi de la version étendue de la contribution (1200-1500 mots).
 
 **27-28 janvier 2025** : Colloque international sur le campus de l’Université de Lausanne.
-
-**1er avril 2025** : Remise des papiers sélectionnés pour la publication.
 
 ### Comité d’organisation
 
