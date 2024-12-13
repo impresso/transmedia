@@ -81,11 +81,9 @@ Proposals (max. 350 words) should include a title, a clear outline of the resear
 
 **Early <ins>October</ins>, 2024**: Notification of acceptance after a selection process conducted with the help of the Scientific Committee members.
 
-**December 13, 2024**: Those interested in taking part in the publication project submit a paper of circa 6,000 words to be forwarded to the organisers and panel discussants.
+**January 10, 2025**: Submission of the extended version of the abstract (1200-1500 words).
 
 **January 27-28, 2025**: International conference at the University of Lausanne.
-
-**April 1, 2025**: Submission of final versions of papers selected for publication.
 
 ### Organisation committee
 **Raphaëlle Ruppen Coutaz**, Section d’histoire, Université de Lausanne<br>
