@@ -36,6 +36,8 @@ Registration is open until January 20.
 
 ### MONDAY 27 JANUARY 2025
 
+**Location:** Nucleo, Vortex Building, University of Lausanne ([Google Maps](https://maps.app.goo.gl/GCmPmiJJHhu4AR8j6))
+
 **09:00-09:30 Welcome**
 
 **09:30-10:00	Introduction**
@@ -86,6 +88,9 @@ francophone à l’épreuve du numérique</em> | Léa Kœnig (EHESS)</li>
 <hr>
 
 ### TUESDAY 28 JANUARY 2025
+
+**Location:** Nucleo, Vortex Building, University of Lausanne ([Google Maps](https://maps.app.goo.gl/GCmPmiJJHhu4AR8j6))
+
 
 **09:00-10:00	Keynote lecture**	
 
