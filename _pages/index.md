@@ -28,7 +28,7 @@ To find out more about the conference, please have a look at the call for papers
 
 ## Conference program
 
-<button class="button button1" onclick="window.location.href='files/program_transmedia.pdf';">Conference program in PDF</button> <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/registration';">Conference registration</button>
+<button class="button button1" onclick="window.location.href='files/program_transmedia.pdf';">Conference program in PDF</button> <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/registration';">Conference registration</button> <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/registration';">Practical informations</button>
 
 Registration is open until January 20.
 
