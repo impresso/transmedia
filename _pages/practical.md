@@ -27,6 +27,8 @@ Coffee breaks will be provided by the conference. Lunch is covered for speakers,
 
 The conference is an on-site event, but the sessions will be streamed on Zoom. You need to [register for the conference](https://impresso.github.io/transmedia/registration) to receive the invitation link a few days before the event. 
 
+<hr>
+
 ## About Lausanne
 
 ### Transportation
