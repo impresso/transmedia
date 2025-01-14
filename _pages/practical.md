@@ -18,7 +18,7 @@ The conference is free of charge, participants are invited to [register here](ht
 ### Venue
 The conference takes place in the Nucleo room, on the ground floor of the Vortex building (University of Lausanne, Switzerland). The nearest metro stop is “UNIL-Sorge” on the M1 line (5-minute walk).
 
-![Campus map](/images/campus_plan.png)
+![Campus map](https://raw.githubusercontent.com/impresso/transmedia/refs/heads/main/images/campus_plan.png)
 
 ### Meals
 Coffee breaks will be provided by the conference. Lunch is covered for speakers, other participants are welcome to eat at Geopolis with the group. An aperitif is offered on Monday evening for everyone, we'll get there together.
@@ -34,7 +34,7 @@ The University of Lausanne campus is well served by the M1 metro line. The journ
 
 Lausanne is well integrated into the rail network, with excellent TGV connections from Paris in the West, EuroCity from Milan in the East, and ICE from the North, via Basel or Zurich. The nearest international airport is in Geneva, a 45min-1h train ride from Lausanne. 
 
-![Lausanne map](/images/lausanne_plan.png)
+![Lausanne map](https://raw.githubusercontent.com/impresso/transmedia/refs/heads/main/images/lausanne_plan.png)
 
 ### More
 
