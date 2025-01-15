@@ -9,9 +9,9 @@ image:
 ---
 
 # Transmedia History: Circulations, Reconfigurations and New Methodologies
-<img src="images/impresso.png" alt="image" width="300" height="auto" align="right">
 
 ### International conference | 27-28 January 2025
+<img src="images/impresso.png" alt="image" width="300" height="auto" align="right">
 University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/transmedia/practical)
 
 ![Transmedia Conference](images/transmedia_illustration_en.png)
