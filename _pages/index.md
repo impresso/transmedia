@@ -77,8 +77,8 @@ Registration is open until January 20.
 **16:30-18:30	Session 3** | Chair: Yannick Rochat (University of Lausanne)	
 
 <ul>
-  <li><em>Digital Throws of the Dice: A Genealogy of Rhetoric in _Fallout_</em> | Clay Foye (EPFL)</li>
-  <li><em>Résistance des écosystèmes médiatiques et obsolescence programmée : le cas _Dragon Ball_ (Japon, France, États-Unis)</em> | Bounthavy Suvilay (Université de Lille)</li>
+  <li><em>Digital Throws of the Dice: A Genealogy of Rhetoric in Fallout</em> | Clay Foye (EPFL)</li>
+  <li><em>Résistance des écosystèmes médiatiques et obsolescence programmée : le cas Dragon Ball (Japon, France, États-Unis)</em> | Bounthavy Suvilay (Université de Lille)</li>
   <li><em>Des serveurs BBS à la TSR : l'histoire transmédiatique de "Star Stormer" (1991)</em> | Pierre-Yves Hurel and Guillaume Guenat (University of Lausanne)</li>
   <li><em>Les nouveaux modes de production et de circulation de l’«actualité littéraire». La presse littéraire européenne francophone à l’épreuve du numérique</em> | Léa Kœnig (EHESS)</li>
 </ul>
