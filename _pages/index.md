@@ -14,7 +14,7 @@ image:
 ### International conference
 University of Lausanne, 27-28 January 2025
 
-[Nucleo, Vortex building](https://impresso.github.io/transmedia/practical)
+Location: [Nucleo, Vortex building](https://impresso.github.io/transmedia/practical)
 
 ![Transmedia Conference](images/transmedia_illustration_en.png)
 
