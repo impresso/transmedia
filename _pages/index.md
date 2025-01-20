@@ -62,19 +62,18 @@ Registration for the in-person conference is open until January 20. Registration
 **12:30-14:00 Lunch**
 
 #### ARCHAEOLOGIES, RECONFIGURATIONS AND NEW GENEALOGIES
-**14:00-16:00	Session 2** | Chair: Anne-Katrin Weber (University of Lausanne) 	
+**14:00-15:30	Session 2** | Chair: Anne-Katrin Weber (University of Lausanne) 	
 
 <ul>
   <li><em>Animation as a Transmedia Catalyst</em> | Antoine Rigaud (Université Paris Nanterre)</li>
-  <li><em>‘The One-Eyed Devil’: How Radio and Television were Perceived and Received in Wales, 1920s-1960s</em> | Jamie Medhurst (Aberystwyth University)</li>
   <li><em>"CD-ROMS in Print”: Transmediality in Early Digital Culture</em> | Alina Volynskaya and Valérie Schafer (University of Luxembourg)</li>
   <li><em>Always on: How the Fax and Teletext Transformed Social Practices and Norms</em> | Jesper Verhoef (University of Groningen)</li>
 </ul>
 
-**16:00-16:30 Coffee break**
+**15:30-16:00 Coffee break**
 
 #### CIRCULATIONS, ADAPTATIONS AND RECIPROCAL INFLUENCES
-**16:30-18:30	Session 3** | Chair: Yannick Rochat (University of Lausanne)	
+**16:00-18:00	Session 3** | Chair: Yannick Rochat (University of Lausanne)	
 
 <ul>
   <li><em>Digital Throws of the Dice: A Genealogy of Rhetoric in Fallout</em> | Clay Foye (EPFL)</li>
@@ -84,6 +83,8 @@ Registration for the in-person conference is open until January 20. Registration
 </ul>
 
 **18:30-20:00 Social event**
+
+Aperitif at the Montreux Jazz Café (EPFL) and visit of their Heritage Lab (audiovisual archives of the festival).
 
 <hr>
 
@@ -135,6 +136,6 @@ Registration for the in-person conference is open until January 20. Registration
 
 **17:00-17:30	Conclusion**
 <ul>
-  <li><em>Conference Conclusion</em> | Raphaëlle Ruppen Coutaz, François Vallotton and Martin Grandjean (University of Lausanne)</li>
   <li><em>A Transmedia Impresso?</em> | Maud Ehrmann (EPFL) and Marten Düring (University of Luxembourg)</li>
+  <li><em>Conference Conclusion</em> | Raphaëlle Ruppen Coutaz, François Vallotton and Martin Grandjean (University of Lausanne)</li>
 </ul>
