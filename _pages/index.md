@@ -31,7 +31,7 @@ To find out more about the conference, please have a look at the call for papers
 
 <button class="button button1" onclick="window.location.href='files/program_transmedia.pdf';">Conference program in PDF</button> <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/registration';">Conference registration</button> <button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/practical';">Practical informations</button>
 
-Registration is open until January 20.
+Registration for the in-person conference is open until January 20. Registration for online participation is open until midday on January 24.
 
 <hr>
 
