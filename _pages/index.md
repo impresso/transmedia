@@ -108,7 +108,7 @@ Aperitif at the Montreux Jazz Café (EPFL) and visit of their Heritage Lab (audi
 <ul>
   <li><em>Transmediality and Colonial Diplomacy: The Berlin Conference (1884-1885) Through Diplomatic Correspondence, “Livre Jaunes” and the French Press</em> | Ferdaous Affan (University of Luxembourg)</li>
   <li><em>Faire une histoire visuelle et médiatique du tourisme, un enjeu transmédiatique : l’exemple de la Tchécoslovaquie en contexte de guerre froide</em> | Marie Blanc (Université Grenoble Alpes)</li>
-    <li><em>The Transmedia Publicity of Swiss Banks: Public Relations Strategies and Mass-Media Coverage (1960-1970)</em> | Arthur Michelet (University of Lausanne)</li>
+    <li><em>The Transmedia Publicity of Swiss Banks: Public Relations Strategies and Mass-Media Coverage (1960-1977)</em> | Arthur Michelet (University of Lausanne)</li>
   <li><em>The Intellectual Life that Oil Fostered: Exploring the History of a ‘Media Ecosystem’ in Latin America (1950-1980)</em> | Juan-David Murillo (Instituto Caro y Cuervo)</li>
 </ul>
 		
