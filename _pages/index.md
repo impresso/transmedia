@@ -1,5 +1,5 @@
 ---
-title: Transmedia History 2025
+title: Homepage
 title_long: 
 permalink: /
 layout: index
