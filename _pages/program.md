@@ -1,7 +1,7 @@
 ---
 title: Conference program
 title_long: 
-permalink: /
+permalink: /program
 layout: index
 order: 0
 image: 
