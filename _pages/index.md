@@ -26,10 +26,11 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
 <hr>
 
 ## Book of abstracts
-
+<p align="center">
 <img src="images/bookofabstracts.png" alt="image" width="500" height="auto" align="center">
+  
 <button class="button button1" onclick="window.location.href='https://doi.org/10.5281/zenodo.15052470';">Book of abstracts</button>
-
+</p>
 📖 **Ruppen Coutaz Raphaëlle**, **Vallotton François**, **Grandjean Martin** and **Düring Marten** (eds). <em>[Transmedia History: Circulations, Reconfigurations and New Methodologies](https://doi.org/10.5281/zenodo.15052470)</em>, Lausanne, 2025, 109 p. [DOI [10.5281/zenodo.15052470](https://doi.org/10.5281/zenodo.15052470)]
 
 #### INTRODUCTION
