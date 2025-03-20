@@ -33,6 +33,8 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
 </p>
 📖 **Ruppen Coutaz Raphaëlle**, **Vallotton François**, **Grandjean Martin** and **Düring Marten** (eds). <em>[Transmedia History: Circulations, Reconfigurations and New Methodologies](https://doi.org/10.5281/zenodo.15052470)</em>, Lausanne, 2025, 109 p. [DOI [10.5281/zenodo.15052470](https://doi.org/10.5281/zenodo.15052470)]
 
+<hr>
+
 ## Papers
 
 #### INTRODUCTION
