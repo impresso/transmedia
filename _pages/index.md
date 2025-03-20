@@ -43,7 +43,7 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
 
 #### TRANSMEDIATIC ACTORS, NETWORKS AND PRACTICES
 
-📄 "[No Wall is Thick Enough to Stop Them](https://doi.org/10.5281/zenodo.15045894)" - Transmediality and Colonial-Critical Resistance in French West Africa 1900 - 1914 - **Philipp Horn** (University of Bern) [DOI [10.5281/zenodo.15045894]
+📄 "[No Wall is Thick Enough to Stop Them](https://doi.org/10.5281/zenodo.15045894)" - Transmediality and Colonial-Critical Resistance in French West Africa 1900 - 1914 - **Philipp Horn** (University of Bern) [DOI 10.5281/zenodo.15045894]
 
 📄 [Geneva's Press and Radio Microcosm and the League of Nations in the Interwar Period](https://doi.org/10.5281/zenodo.15045946) - **Martin Grandjean** (University of Lausanne) [DOI 10.5281/zenodo.15045946]
 
@@ -63,7 +63,7 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
 
 📄 [Digital Throws of the Dice: A Genealogy of Rhetoric in Fallout](https://doi.org/10.5281/zenodo.15046860) - **Clay Foye** (EPFL) [DOI 10.5281/zenodo.15046860]
 
-📄 [Résistance des écosystèmes médiatiques et obsolescence programmée : le cas Dragon Ball (Japon, France, États-Unis)](https://doi.org/10.5281/zenodo.15046886) - **Bounthavy Suvilay** (Université de Lille) [DOI [10.5281/zenodo.15046886](https://doi.org/10.5281/zenodo.15046886)]
+📄 [Résistance des écosystèmes médiatiques et obsolescence programmée : le cas Dragon Ball (Japon, France, États-Unis)](https://doi.org/10.5281/zenodo.15046886) - **Bounthavy Suvilay** (Université de Lille) [DOI 10.5281/zenodo.15046886](https://doi.org/10.5281/zenodo.15046886)]
 
 📄 [Des serveurs BBS à la TSR : l'histoire transmédiatique de "Star Stormer" (1991)](https://doi.org/10.5281/zenodo.15046898) - **Pierre-Yves Hurel** and **Guillaume Guenat** (University of Lausanne) [DOI 10.5281/zenodo.15046898]
 
@@ -71,7 +71,7 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
  
 #### TRANSMEDIA MOBILIZATIONS AND PROPAGANDA
 
-📄 [Transmediality and Colonial Diplomacy: The Berlin Conference (1884-1885) Through Diplomatic Correspondence, “Livre Jaunes” and the French Press](https://doi.org/10.5281/zenodo.15046928) - **Ferdaous Affan** (University of Luxembourg) [DOI [10.5281/zenodo.15046928]
+📄 [Transmediality and Colonial Diplomacy: The Berlin Conference (1884-1885) Through Diplomatic Correspondence, “Livre Jaunes” and the French Press](https://doi.org/10.5281/zenodo.15046928) - **Ferdaous Affan** (University of Luxembourg) [DOI 10.5281/zenodo.15046928]
 
 📄 [Faire une histoire visuelle et médiatique du tourisme, un enjeu transmédiatique : l’exemple de la Tchécoslovaquie en contexte de guerre froide](https://doi.org/10.5281/zenodo.15046934) - **Marie Blanc** (Université Grenoble Alpes) [DOI 10.5281/zenodo.15046934]
 
