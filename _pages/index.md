@@ -27,7 +27,7 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
 
 ## Book of abstracts
 
-<em>Transmedia History: Circulations, Reconfigurations and New Methodologies</em> (Introduction to the conference) - **Raphaëlle Ruppen Coutaz**, **François Vallotton** and **Martin Grandjean** (University of Lausanne)
+📄 <em>[Transmedia History: Circulations, Reconfigurations and New Methodologies](https://doi.org/10.5281/zenodo.15045815)</em> (Introduction to the conference) - **Raphaëlle Ruppen Coutaz**, **François Vallotton** and **Martin Grandjean** (University of Lausanne) DOI [10.5281/zenodo.15045815](https://doi.org/10.5281/zenodo.15045815)
 
 #### TRANSMEDIATIC ACTORS, NETWORKS AND PRACTICES
 
@@ -42,7 +42,9 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
 #### ARCHAEOLOGIES, RECONFIGURATIONS AND NEW GENEALOGIES
 
 <em>Animation as a Transmedia Catalyst</em> - **Antoine Rigaud** (Université Paris Nanterre)
+
 <em>"CD-ROMS in Print”: Transmediality in Early Digital Culture</em> - **Alina Volynskaya** and **Valérie Schafer** (University of Luxembourg)
+
 <em>Always on: How the Fax and Teletext Transformed Social Practices and Norms</em> - **Jesper Verhoef** (University of Groningen)
 
 #### CIRCULATIONS, ADAPTATIONS AND RECIPROCAL INFLUENCES
