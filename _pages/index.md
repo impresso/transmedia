@@ -27,8 +27,10 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
 
 ## Book of abstracts
 
-<img src="images/bookofabstracts.png" alt="image" width="300" height="auto" align="center">
+<img src="images/bookofabstracts.png" alt="image" width="500" height="auto" align="center">
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/transmedia/program';">Book of abstracts</button>
 
+📖 **Ruppen Coutaz Raphaëlle**, **Vallotton François**, **Grandjean Martin** and **Düring Marten** (eds). <em>Transmedia History: Circulations, Reconfigurations and New Methodologies</em>, Lausanne, 2025, 109 p. [DOI 10.5281/zenodo.15052470]
 
 #### INTRODUCTION
 
@@ -38,23 +40,23 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
 
 📄 "[No Wall is Thick Enough to Stop Them](https://doi.org/10.5281/zenodo.15045894)" - Transmediality and Colonial-Critical Resistance in French West Africa 1900 - 1914 - **Philipp Horn** (University of Bern) [DOI [10.5281/zenodo.15045894](https://doi.org/10.5281/zenodo.15045894)]
 
-📄 Geneva's Press and Radio Microcosm and the League of Nations in the Interwar Period - **Martin Grandjean** (University of Lausanne)
+📄 [Geneva's Press and Radio Microcosm and the League of Nations in the Interwar Period](https://doi.org/10.5281/zenodo.15045946) - **Martin Grandjean** (University of Lausanne) [DOI [10.5281/zenodo.15045946](https://doi.org/10.5281/zenodo.15045946)]
 
-📄 Cross Media History in the mid-20th Century: The American Foreign Correspondents, the Rise of National Socialism, and the Convergence of Print and Radio Reporting - **Norman Domeier** (Charles University Prague)
+📄 [Cross Media History in the mid-20th Century: The American Foreign Correspondents, the Rise of National Socialism, and the Convergence of Print and Radio Reporting](https://doi.org/10.5281/zenodo.15046791) - **Norman Domeier** (Charles University Prague) [DOI [10.5281/zenodo.15046791](https://doi.org/10.5281/zenodo.15046791)]
 
-📄 La diffusion du rock en France : approche transmédiatique (années 1960 - années 1970) - **Maxime Guebey** (Université de Tours)
+📄 [La diffusion du rock en France : approche transmédiatique (années 1960 - années 1970)](https://doi.org/10.5281/zenodo.15046814) - **Maxime Guebey** (Université de Tours) [DOI [10.5281/zenodo.15046814](https://doi.org/10.5281/zenodo.15046814)]
 
 #### ARCHAEOLOGIES, RECONFIGURATIONS AND NEW GENEALOGIES
 
-📄 Animation as a Transmedia Catalyst - **Antoine Rigaud** (Université Paris Nanterre)
+📄 [Animation as a Transmedia Catalyst](https://doi.org/10.5281/zenodo.15046826) - **Antoine Rigaud** (Université Paris Nanterre) [DOI [10.5281/zenodo.15046826](https://doi.org/10.5281/zenodo.15046826)]
 
-📄 "CD-ROMS in Print”: Transmediality in Early Digital Culture - **Alina Volynskaya** and **Valérie Schafer** (University of Luxembourg)
+📄 ["CD-ROMS in Print”: Transmediality in Early Digital Culture](https://doi.org/10.5281/zenodo.15046840) - **Alina Volynskaya** and **Valérie Schafer** (University of Luxembourg) [DOI [10.5281/zenodo.15046840](https://doi.org/10.5281/zenodo.15046840)]
 
-📄 Always on: How the Fax and Teletext Transformed Social Practices and Norms - **Jesper Verhoef** (University of Groningen)
+📄 [The Fax and Teletext. Imagining the Future in the 1980s and 1990s](https://doi.org/10.5281/zenodo.15046854) - **Jesper Verhoef** (University of Groningen) [DOI [10.5281/zenodo.15046854](https://doi.org/10.5281/zenodo.15046854)]
 
 #### CIRCULATIONS, ADAPTATIONS AND RECIPROCAL INFLUENCES
 
-📄 Digital Throws of the Dice: A Genealogy of Rhetoric in Fallout - **Clay Foye** (EPFL)
+📄 [Digital Throws of the Dice: A Genealogy of Rhetoric in Fallout](https://doi.org/10.5281/zenodo.15046860) - **Clay Foye** (EPFL) [DOI [10.5281/zenodo.15046860](https://doi.org/10.5281/zenodo.15046860)]
 
 📄 Résistance des écosystèmes médiatiques et obsolescence programmée : le cas Dragon Ball (Japon, France, États-Unis) - **Bounthavy Suvilay** (Université de Lille)
 
