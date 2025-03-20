@@ -1,5 +1,5 @@
 ---
-title: Conference program
+title: Transmedia History 2025
 title_long: 
 permalink: /
 layout: index
