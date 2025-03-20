@@ -63,7 +63,7 @@ University of Lausanne, [Nucleo (Vortex building)](https://impresso.github.io/tr
 
 📄 [Digital Throws of the Dice: A Genealogy of Rhetoric in Fallout](https://doi.org/10.5281/zenodo.15046860) - **Clay Foye** (EPFL) [DOI 10.5281/zenodo.15046860]
 
-📄 [Résistance des écosystèmes médiatiques et obsolescence programmée : le cas Dragon Ball (Japon, France, États-Unis)](https://doi.org/10.5281/zenodo.15046886) - **Bounthavy Suvilay** (Université de Lille) [DOI 10.5281/zenodo.15046886](https://doi.org/10.5281/zenodo.15046886)]
+📄 [Résistance des écosystèmes médiatiques et obsolescence programmée : le cas Dragon Ball (Japon, France, États-Unis)](https://doi.org/10.5281/zenodo.15046886) - **Bounthavy Suvilay** (Université de Lille) [DOI 10.5281/zenodo.15046886]
 
 📄 [Des serveurs BBS à la TSR : l'histoire transmédiatique de "Star Stormer" (1991)](https://doi.org/10.5281/zenodo.15046898) - **Pierre-Yves Hurel** and **Guillaume Guenat** (University of Lausanne) [DOI 10.5281/zenodo.15046898]
 
